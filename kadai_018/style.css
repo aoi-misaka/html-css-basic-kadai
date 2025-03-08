@@ -1,9 +1,7 @@
 #top {
   width: 800px;
   background-color: #dcc9f4;
-  margin: 20px auto;
-  display: flex;
-  justify-content: center;
+  text-align: center;
   margin: 0 auto; 
 }
 .top-child {
@@ -11,6 +9,8 @@
   width: 20%;
   margin: 0 10px; 
   text-align: center;
+  margin: 0 auto; 
+  display: inline-block;
 }
 /*真ん中*/
 #middle{
